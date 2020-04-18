@@ -1,0 +1,12 @@
+.Footer {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.Footer a {
+  color: white;
+}
+
+.Footer a:hover {
+  text-decoration: none;
+}
